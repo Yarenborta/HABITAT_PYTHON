@@ -85,23 +85,6 @@ else:
     print("Lütfen geçerli bir tercih giriniz.")
 
 
-# tercih=input("Which do you prefer to pass the time? Cinema/Theatre")
-# ogrenci=input("Are you a student ? YES/NO")
-# if tercih=="Cinema":
-#     if ogrenci== "YES":
-#         ucret=15-(15*0.2)
-#         print("Your pay for being a student is ",ucret, "TL.")
-#     else:
-#         print("your pay is 15 TL.")
-# elif tercih=="Theatre":
-#     if ogrenci=="YES":
-#         ucret=10-(10*0.2)
-#         print("Your pay for being a student is ",ucret, "TL.")
-#     else:
-#         print("your pay is 15 TL.")
-# else:
-#     print("Please enter valid prefering.") 
-
 
 #################### ÖDEV-6 ################
 #6-	Girilen sayı hem 3 hem de 5’e tam bölünüyorsa “15’e tam bölünür.”; bölünmüyorsa “15’e tam bölünmez.” çıktıları veren kodu yazınız.
